@@ -1,6 +1,3 @@
-# Employee-MIS-Dashboard
-Excel Employee MIS Dashboard with pivots &amp; charts.
-
 # Employee MIS Dashboard (Excel)
 
 ## Overview
